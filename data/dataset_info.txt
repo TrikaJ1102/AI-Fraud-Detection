@@ -1,0 +1,40 @@
+Dataset: BankSim (Kaggle)
+
+Link:
+https://www.kaggle.com/datasets/ealaxi/banksim1
+
+Description:
+This dataset is a synthetic financial transaction dataset generated using the BankSim simulator. 
+It is based on real bank transaction patterns but anonymized for research purposes.
+
+Key Details:
+- ~594,000 transactions
+- ~7,200 fraud cases
+- Severe class imbalance
+- No missing values
+
+Use:
+This dataset is used to train machine learning models for fraud detection.
+
+## 📊 Dataset
+
+Dataset used: BankSim Synthetic Financial Dataset  
+
+👉 :contentReference[oaicite:0]{index=0}
+
+### 📌 About Dataset
+- Synthetic dataset generated using BankSim simulator
+- Simulates real bank transactions over ~6 months
+- ~594,000 transactions
+- ~7,200 fraudulent cases (highly imbalanced)
+
+### 🧾 Features:
+- step (time of transaction)
+- customer (customer ID)
+- age
+- gender
+- merchant
+- category
+- amount
+- fraud (target variable)
+
